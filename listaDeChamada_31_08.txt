@@ -1,4 +1,28 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Amanda Sousa Tomaz - Presente
+=======
+Mauricio Ricardo Nascimento Da Costa Crespo 
+>>>>>>> 91086e1c48ea6af39b73b237d6d5b94979bb6fca
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+André Rafael Lanza
+=======
+=======
+João Vitor Faleiros- Presente
+>>>>>>> 114d8d9faa504a27871e9e67f9febf547f64785e
+=======
 Renan Augusto Veloso de Medeiros
+>>>>>>> 7c5e61c061f22f012fd959445c928b7e0f18d386
 Henrique Silva Gouvea
 >>>>>>> 62b0a3da24eb45ccd3375f3cd8dc3b40f6290bcd
+<<<<<<< HEAD
 Clara Vitoria da Silva Zacchi 
+=======
+>>>>>>> 7c5e61c061f22f012fd959445c928b7e0f18d386
+
+Kayque Henrique
+>>>>>>> 78b7c253dcb37e73ae0556a776923ad1baa6180c
+>>>>>>> f6ea9a0289b9bf6050f73b60e3ba70dbf0926f37
