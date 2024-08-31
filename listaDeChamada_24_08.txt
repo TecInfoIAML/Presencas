@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 João Vitor Faleiros- Presente
+=======
+<<<<<<< HEAD
+Renan Augusto Veloso de Medeiros
+=======
+Henrique Silva Gouvea- faltei
+>>>>>>> 62b0a3da24eb45ccd3375f3cd8dc3b40f6290bcd
+>>>>>>> 7c5e61c061f22f012fd959445c928b7e0f18d386
