@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 André Rafael Lanza
+=======
+Henrique Silva Gouvea- faltei
+>>>>>>> 62b0a3da24eb45ccd3375f3cd8dc3b40f6290bcd
